@@ -1,5 +1,5 @@
 
-# UE4 + GitHub Actions - example game
+# UE4 + GitHub Actions - Example game
 
 This is a build system demonstration for UE4 games.
 
